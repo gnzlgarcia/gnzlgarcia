@@ -92,20 +92,20 @@ hr {
 .o1 {
     position: relative;
     align-self: center;
-    width: 20rem;
+    width: 20%;
 }
 
 
 .o2 {
     position: absolute;
     align-self: center;
-    width: 20rem;
+    width: 20%;
 }
 
 .frontend {
     position: relative;
     align-self: center;
-    width: 20rem;
+    width: 30%;
     transition-duration: 250ms;
     transition-property: all;
     transition-timing-function: ease-in;
@@ -114,6 +114,6 @@ hr {
 .frontend:hover {
     position: relative;
     align-self: center;
-    width: 20rem;   
+    width: 30%;   
     transform: translateY(-20px);
 }
