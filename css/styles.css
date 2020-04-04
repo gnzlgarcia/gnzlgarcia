@@ -17,9 +17,9 @@ body {
 h1 {
     color: #fae7cb;
     font-family: 'Montserrat', sans-serif;
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: 700;
-    margin: 0px 2% 2% 2%;
+    margin: 2%;
 }
 
 h2 {
@@ -106,6 +106,6 @@ hr {
     position: relative;
     align-self: center;
     width: 20rem;
-    margin: auto;
+    
 
 }
