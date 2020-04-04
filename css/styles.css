@@ -17,7 +17,7 @@ body {
 h1 {
     color: #fae7cb;
     font-family: 'Montserrat', sans-serif;
-    font-size: 4vw;
+    font-size: 4rem;
     font-weight: 700;
     margin: 2%;
 }
@@ -27,20 +27,20 @@ h2 {
     border-radius: 20px;
     background-color: rgba(67, 23, 94, 1);
     font-weight: 400;
-    font-size: 2vw;
+    font-size: 2rem;
     padding: 2%;
 }
 
 h3 {
     color: #fae7cb;
     font-weight: 400;
-    font-size: 1.5vw;
+    font-size: 1.5rem;
 }
 
 p {
     color: #fae7cb;
     font-weight: 300;
-    font-size: 2vw;
+    font-size: 2vh;
     margin: 20px;
 }
 
@@ -60,7 +60,7 @@ hr {
     background: none;
     color: #fae7cb;
     font-weight: 400;
-    font-size: 2.5vw;
+    font-size: 2.5rem;
     
     padding: 0;
 }
@@ -83,7 +83,7 @@ hr {
 }
 
 .profile{
-    margin-bottom: ;
+    
 }
 
 .bottom-container {}
@@ -92,24 +92,28 @@ hr {
 .o1 {
     position: relative;
     align-self: center;
-    width: 20vw;
+    width: 20rem;
 }
 
 
 .o2 {
     position: absolute;
     align-self: center;
-    width: 20vw;
+    width: 20rem;
 }
 
 .frontend {
     position: relative;
     align-self: center;
-    width: 20vw;
-    
+    width: 20rem;
+    transition-duration: 250ms;
+    transition-property: all;
+    transition-timing-function: ease-in;
+    }
 
-}
 .frontend:hover {
     position: relative;
     align-self: center;
-    width: 20vw;
+    width: 20rem;   
+    transform: translateY(-20px);
+}
