@@ -1,33 +1,4 @@
 body {
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-    margin: 0px;
-}
-
-
-
-h1 {
-    color: #efb1ff;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 5rem;
-    font-weight: 700;
-    margin: 0px;
-}
-
-h2 {
-    color: #efb1ff;
-    font-weight: 400;
-    font-size: 2.5rem;
-}
-
-p {
-    color: teal;
-    font-weight: 400;
-    font-size: 2vh;
-    margin: 20px;
-}
-
-.contenedor-superior {
     background: rgba(67, 23, 94, 1);
     background: -moz-linear-gradient(left, rgba(67, 23, 94, 1) 0%, rgba(89, 70, 164, 1) 51%, rgba(67, 23, 94, 1) 99%, rgba(67, 23, 94, 1) 100%);
     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(67, 23, 94, 1)), color-stop(51%, rgba(89, 70, 164, 1)), color-stop(99%, rgba(67, 23, 94, 1)), color-stop(100%, rgba(67, 23, 94, 1)));
@@ -36,14 +7,83 @@ p {
     background: -ms-linear-gradient(left, rgba(67, 23, 94, 1) 0%, rgba(89, 70, 164, 1) 51%, rgba(67, 23, 94, 1) 99%, rgba(67, 23, 94, 1) 100%);
     background: linear-gradient(to right, rgba(67, 23, 94, 1) 0%, rgba(89, 70, 164, 1) 51%, rgba(67, 23, 94, 1) 99%, rgba(67, 23, 94, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#43175e', endColorstr='#43175e', GradientType=1);
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 0px;
+}
+
+
+
+h1 {
+    color: #fae7cb;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5rem;
+    font-weight: 700;
+    margin: 0px 2% 2% 2%;
+}
+
+h2 {
+    color: #fae7cb;
+    border-radius: 20px;
+    background-color: rgba(67, 23, 94, 1);
+    font-weight: 400;
+    font-size: 2rem;
+    padding: 2%;
+}
+
+h3 {
+    color: #fae7cb;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+p {
+    color: #fae7cb;
+    font-weight: 300;
+    font-size: 2vh;
+    margin: 20px;
+}
+
+hr {
+
+    border-color: #fae7cb;
+    border-style: dotted none none;
+    border-width: 5px;
+    height: 4%;
+    width: 4%;
+    margin: 5% auto 5% auto
+    
+
+}
+
+.subtitulo {
+    background: none;
+    color: #fae7cb;
+    font-weight: 400;
+    font-size: 2.5rem;
+    
+    padding: 0;
+}
+
+.contenedor-superior {
+   
     position: relative;
     padding-top: 2%;
-    padding-bottom: 100px;
-    min-height: 45vw;
+    padding-bottom: 2%;
+    margin: 0px;
+    
 }
 
 .middle-container {
-    position: relative;
+
+   margin: auto;
+   width: 50%;
+   
+
+}
+
+.profile{
+    margin-bottom: ;
 }
 
 .bottom-container {}
@@ -60,4 +100,12 @@ p {
     position: absolute;
     align-self: center;
     width: 20rem;
+}
+
+.frontend {
+    position: relative;
+    align-self: center;
+    width: 20rem;
+    margin: auto;
+
 }
