@@ -37,7 +37,7 @@ p {
     background: linear-gradient(to right, rgba(67, 23, 94, 1) 0%, rgba(89, 70, 164, 1) 51%, rgba(67, 23, 94, 1) 99%, rgba(67, 23, 94, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#43175e', endColorstr='#43175e', GradientType=1);
     position: relative;
-    padding-top: 100px;
+    padding-top: 5%;
     padding-bottom: 100px;
     min-height: 45vw;
 }
