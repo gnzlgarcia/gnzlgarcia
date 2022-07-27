@@ -28,17 +28,10 @@ Acabo de terminar mi Ciclo Formativo de Grado Superior en Desarrollo de Aplicaci
 
 ## Languajes y herramientas
 
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,php,git)](https://skills.thijs.gg)
 > [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
-> [<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-> [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-> [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-> [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-> [<img align="left" alt="XML" width="32px" src="https://i.imgur.com/9ZYpuBU.png" />][xml]
 > [<img align="left" alt="Bootstrap" width="32px" src="https://github.com/jmnote/z-icons/blob/master/svg/bootstrap.svg" />][bootstrap]
 > [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-> [<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-> [<img align="left" alt="Git" width="32px" src="https://github.com/jmnote/z-icons/blob/master/svg/git.svg" />][git]
-> [<img align="left" alt="GitHub" width="32px" src="https://github.com/jmnote/z-icons/blob/master/svg/github.svg" />][github]
 > [<img align="left" alt="Terminal" width="32px" src="https://github.com/jmnote/z-icons/blob/master/svg/bash.svg" />][bash]
 <br />
 
@@ -55,15 +48,7 @@ Acabo de terminar mi Ciclo Formativo de Grado Superior en Desarrollo de Aplicaci
 [instagram]: https://www.instagram.com/gnzlgarcia/
 [linkedin]: https://www.linkedin.com/in/gnzl/
 [visualstudiocode]: https://es.wikipedia.org/wiki/Visual_Studio_Code
-[html]: https://es.wikipedia.org/wiki/HTML5
-[xml]: https://es.wikipedia.org/wiki/Extensible_Markup_Language
-[css]: https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada#CSS3
-[js]: https://es.wikipedia.org/wiki/JavaScript
 [sql]: https://es.wikipedia.org/wiki/SQL
-[mysql]: https://es.wikipedia.org/wiki/MySQL
-[mongodb]: https://es.wikipedia.org/wiki/MongoDB
-[git]: https://es.wikipedia.org/wiki/Git
 [github]: https://es.wikipedia.org/wiki/GitHub
 [bash]: https://es.wikipedia.org/wiki/Shell_de_Unix
 [bootstrap]: https://es.wikipedia.org/wiki/Bootstrap_(framework)
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
