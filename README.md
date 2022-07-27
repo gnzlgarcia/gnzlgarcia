@@ -26,7 +26,7 @@ Acabo de terminar mi Ciclo Formativo de Grado Superior en Desarrollo de Aplicaci
 
 ---
 
-## Languajes y herramientas
+## Lenguajes y herramientas
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,php,git)](https://skills.thijs.gg)
 
