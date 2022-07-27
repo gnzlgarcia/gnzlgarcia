@@ -53,3 +53,14 @@ Acabo de terminar mi Ciclo Formativo de Grado Superior en Desarrollo de Aplicaci
 
 [instagram]: https://www.instagram.com/gnzlgarcia/
 [linkedin]: https://www.linkedin.com/in/gnzl/
+[visualstudiocode]: https://es.wikipedia.org/wiki/Visual_Studio_Code
+[html]: https://es.wikipedia.org/wiki/HTML5
+[xml]: https://es.wikipedia.org/wiki/Extensible_Markup_Language
+[css]: https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada#CSS3
+[js]: https://es.wikipedia.org/wiki/JavaScript
+[sql]: https://es.wikipedia.org/wiki/SQL
+[mysql]: https://es.wikipedia.org/wiki/MySQL
+[mongodb]: https://es.wikipedia.org/wiki/MongoDB
+[git]: https://es.wikipedia.org/wiki/Git
+[github]: https://es.wikipedia.org/wiki/GitHub
+[bash]: https://es.wikipedia.org/wiki/Shell_de_Unix
