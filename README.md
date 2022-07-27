@@ -1,6 +1,6 @@
 # ¡Bienvenid@ a mi perfil de Github! 👋
 ---
-## 🐻 Me llamo Gonzalo, aunque tú puedes llamarme <i>[Lalo](https://www.linkedin.com/in/gnzl/)</i> 🐻
+## 🐻 Me llamo Gonzalo, aunque tú puedes llamarme <i>[Lalo][linkedin]</i> 🐻
 ---
 Other languages: <i>[English][ENGLISH]</i>
 
@@ -23,3 +23,16 @@ Acabo de terminar mi Ciclo Formativo de Grado Superior en Desarrollo de Aplicaci
 - 🔭 Acabo de terminar mi Ciclo Formativo como Desarrollador de Aplicaciones Web.
 - 👯 Si quieres realizar un proyecto conmigo, contáctame.
 - ⚡ Dato curioso: me encanta Magic The Gathering!
+
+---
+## Contáctame
+
+> [<img align="left" alt="gnzlgarcia | LinkedIn" width="22px" src="https://i.imgur.com/tKAfy4d.png" />][linkedin]
+> [<img align="left" alt="gnzlgarcia | Instagram" width="22px" src="https://i.imgur.com/giZIfTN.png" />][instagram]
+
+<br />
+
+---
+
+[instagram]: https://www.instagram.com/gnzlgarcia/
+[linkedin]: https://www.linkedin.com/in/gnzl/
