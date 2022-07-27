@@ -1,8 +1,7 @@
 # ¡Bienvenid@ a mi perfil de Github! 👋
 ---
 ## 🐻 Me llamo Gonzalo, aunque tú puedes llamarme <i>[Lalo][linkedin]</i> 🐻
----
-Other languages: <i>[English][ENGLISH]</i>
+
 
 ---
 ## Mi historia
