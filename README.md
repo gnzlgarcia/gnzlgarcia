@@ -1,6 +1,6 @@
 # ¡Bienvenid@ a mi perfil de Github! 👋
 ---
-## 🐻 Me llamo Gonzalo, aunque tú puedes llamarme <i>[Lalo][linkedin]</i> 🐻
+## 🐻 Me llamo Gonzalo, aunque tú puedes llamarme <i>[Lalo](https://www.linkedin.com/in/gnzl/)</i> 🐻
 ---
 Other languages: <i>[English][ENGLISH]</i>
 
