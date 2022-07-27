@@ -7,7 +7,7 @@
 ## Mi historia
 He trabajado como diseñador gráfico durante los últimos 4 años, pero despúes de comprobar como la técnología e internet cambian el mundo, algo me decía que mi futuro estaba en el desarrollo web.
 
-Acabo de terminar mi Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web y estoy deseando poner en práctica todo lo que he aprendido, y seguir el largo recorrido que es la carrera de un programador/a.
+Acabo de terminar mi Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web y estoy deseando poner en práctica todo lo que he aprendido, y seguir el largo camino que es la carrera de un programador/a.
 
 ---
 ## Objetivos para el 2022
