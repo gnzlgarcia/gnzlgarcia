@@ -34,10 +34,11 @@ Acabo de terminar mi Ciclo Formativo de Grado Superior en Desarrollo de Aplicaci
 > [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 > [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 > [<img align="left" alt="XML" width="32px" src="https://i.imgur.com/9ZYpuBU.png" />][xml]
+> [<img align="left" alt="Bootstrap" width="32px" src="https://github.com/jmnote/z-icons/blob/master/svg/bootstrap.svg" />][bootstrap]
 > [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 > [<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-> [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-> [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+> [<img align="left" alt="Git" width="32px" src="https://github.com/jmnote/z-icons/blob/master/svg/git.svg" />][git]
+> [<img align="left" alt="GitHub" width="32px" src="https://github.com/jmnote/z-icons/blob/master/svg/github.svg" />][github]
 > [<img align="left" alt="Terminal" width="32px" src="https://github.com/jmnote/z-icons/blob/master/svg/bash.svg" />][bash]
 <br />
 
@@ -64,3 +65,5 @@ Acabo de terminar mi Ciclo Formativo de Grado Superior en Desarrollo de Aplicaci
 [git]: https://es.wikipedia.org/wiki/Git
 [github]: https://es.wikipedia.org/wiki/GitHub
 [bash]: https://es.wikipedia.org/wiki/Shell_de_Unix
+[bootstrap]: https://es.wikipedia.org/wiki/Bootstrap_(framework)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
