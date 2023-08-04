@@ -1,6 +1,6 @@
 # ¡Bienvenid@ a mi perfil de Github! 👋
 ---
-## 🐻 Me llamo Gonzalo, aunque tú puedes llamarme <i>[Lalo][linkedin]</i> 🐻
+## Me llamo Gonzalo, aunque tú puedes llamarme <i>[Lalo][linkedin]</i> 🐻
 
 
 ---
@@ -10,16 +10,18 @@ He trabajado como diseñador gráfico durante los últimos 4 años, pero despúe
 Acabo de terminar mi Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web y estoy deseando poner en práctica todo lo que he aprendido, y seguir el largo camino que es la carrera de un programador/a.
 
 ---
-## Objetivos para el 2022
+## Objetivos para el 2023
 > ✔️ JS
 > ✔️ Node
 > ✔️ React
 > ✔️ MongoDB
-> ❌ Symfony
+> ✔️ Vue
+> ❌ TS
+> ❌ Python
 
 ---
 ## Acerca de mí
-- 🔭 Acabo de terminar mi Ciclo Formativo como Desarrollador de Aplicaciones Web.
+- 🔭 Hace seis meses terminé mi Ciclo Formativo como Desarrollador de Aplicaciones Web.
 - 👯 Si quieres realizar un proyecto conmigo, contáctame.
 - ⚡ Dato curioso: me encanta Magic The Gathering!
 
