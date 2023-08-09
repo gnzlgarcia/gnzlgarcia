@@ -15,7 +15,7 @@ Acabo de terminar mi Ciclo Formativo de Grado Superior en Desarrollo de Aplicaci
 > ✔️ Node
 > ✔️ React
 > ✔️ MongoDB
-> ✔️ Vue
+> ❌ Vue
 > ❌ TS
 > ❌ Python
 
