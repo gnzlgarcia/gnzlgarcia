@@ -7,7 +7,7 @@
 ## Mi historia
 Comencé mi carrera como diseñador gráfico, explorando la creatividad visual durante 5 años. Sin embargo, el potencial transformador de la tecnología y el desarrollo siempre me atrajo. Hace dos años, di el salto al desarrollo web, centrandome en frontend y React.
 
-Con una formación Superior en Desarrollo de Aplicaciones Web y habilidades en HTML, CSS, JavaScript TypeScript me apasiona crear experiencias interactivas y modernas. Mi enfoque en frontend refleja mi deseo de fusionar diseño y funcionalidad.
+Con una formación Superior en Desarrollo de Aplicaciones Web y habilidades en HTML, CSS, JavaScript y TypeScript me apasiona crear experiencias interactivas y modernas. Mi enfoque en frontend refleja mi deseo de fusionar diseño y funcionalidad.
 
 Ahora, busco un equipo donde pueda aportar mis habilidades como desarrollador, impulsado por mi pasión por la programación y el aprendizaje constante.
 
