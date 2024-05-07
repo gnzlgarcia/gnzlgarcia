@@ -12,18 +12,14 @@ Con una formación Superior en Desarrollo de Aplicaciones Web y habilidades en H
 Ahora, busco un equipo donde pueda aportar mis habilidades como desarrollador, impulsado por mi pasión por la programación y el aprendizaje constante.
 
 ---
-## Objetivos para el 2023
+## Objetivos para el 2024
 > ✔️ TS
 > 
-> ✔️ Next.js
+> ✔️ Python
 > 
-> ✔️ Material UI
+> ❌ Angular
 > 
-> ✔️ Node & Express
-> 
-> ❌ Vue
-> 
-> ❌ Python
+> ❌ Material UI
 
 ---
 ## Acerca de mí
